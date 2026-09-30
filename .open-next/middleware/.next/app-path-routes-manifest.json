@@ -1,0 +1,20 @@
+{
+  "/(storefront)/account/addresses/page": "/account/addresses",
+  "/(storefront)/account/orders/page": "/account/orders",
+  "/(storefront)/account/page": "/account",
+  "/(storefront)/account/settings/page": "/account/settings",
+  "/(storefront)/account/wishlist/page": "/account/wishlist",
+  "/(storefront)/cart/page": "/cart",
+  "/(storefront)/checkout/page": "/checkout",
+  "/(storefront)/login/page": "/login",
+  "/(storefront)/page": "/",
+  "/(storefront)/products/[slug]/page": "/products/[slug]",
+  "/(storefront)/products/page": "/products",
+  "/(storefront)/register/page": "/register",
+  "/(storefront)/track/page": "/track",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/auth/callback/route": "/auth/callback",
+  "/auth/error/page": "/auth/error",
+  "/favicon.ico/route": "/favicon.ico"
+}

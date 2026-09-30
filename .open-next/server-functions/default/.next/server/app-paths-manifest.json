@@ -1,0 +1,20 @@
+{
+  "/(storefront)/account/addresses/page": "app/(storefront)/account/addresses/page.js",
+  "/(storefront)/account/orders/page": "app/(storefront)/account/orders/page.js",
+  "/(storefront)/account/page": "app/(storefront)/account/page.js",
+  "/(storefront)/account/settings/page": "app/(storefront)/account/settings/page.js",
+  "/(storefront)/account/wishlist/page": "app/(storefront)/account/wishlist/page.js",
+  "/(storefront)/cart/page": "app/(storefront)/cart/page.js",
+  "/(storefront)/checkout/page": "app/(storefront)/checkout/page.js",
+  "/(storefront)/login/page": "app/(storefront)/login/page.js",
+  "/(storefront)/page": "app/(storefront)/page.js",
+  "/(storefront)/products/[slug]/page": "app/(storefront)/products/[slug]/page.js",
+  "/(storefront)/products/page": "app/(storefront)/products/page.js",
+  "/(storefront)/register/page": "app/(storefront)/register/page.js",
+  "/(storefront)/track/page": "app/(storefront)/track/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/callback/route": "app/auth/callback/route.js",
+  "/auth/error/page": "app/auth/error/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
